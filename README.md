@@ -18,12 +18,12 @@ Requirements:
 
 Download the folder and extract it to any folder. you should find a file system containing these files and folders
 
-data
-  chat.db
-error_on_fetching
-bot.py
-server.py
-start.bat
+- data
+-  chat.db
+- error_on_fetching
+- bot.py
+- server.py
+- start.bat
 
 You can start the server in three ways:
 * directly click on server.py
